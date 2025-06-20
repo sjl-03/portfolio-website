@@ -13,7 +13,7 @@ function Projects() {
         'Implemented data augmentation techniques',
         'Used PyTorch and scikit-learn for model development'
       ],
-      pdfLink: '/galaxy_mass.pdf'
+      pdfLink: 'https://github.com/sjl-03/portfolio-website/blob/main/public/Estimating_Galaxy_Masses_from_3D_Galaxy_Survey_Data%20(4)%5B4467%5D.pdf'
     },
     {
       title: 'Steam Data Analysis',
@@ -31,7 +31,7 @@ function Projects() {
         'A web game built in Unity and deployed under my domain.',
         'Play directly in your browser!'
       ],
-      gameLink: '/webgame/'
+      gameLink: 'https://sjl-03.itch.io/flappy-cat'
     }
   ];
 
