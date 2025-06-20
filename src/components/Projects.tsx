@@ -23,7 +23,7 @@ function Projects() {
         'Identified key trends in gaming industry',
         'Used pandas and matplotlib for data processing'
       ],
-      pdfLink: '/steam-report.pdf'
+      pdfLink: 'https://github.com/sjl-03/portfolio-website/blob/main/public/Steam_Data_Analysis.pdf'
     },
     {
       title: 'Flappy Cat (Unity Game)',
