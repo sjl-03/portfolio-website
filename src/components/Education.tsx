@@ -22,6 +22,7 @@ function Education() {
       ]
     }
   ];
+  
 
   return (
     <Box
