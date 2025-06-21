@@ -8,27 +8,27 @@ function Projects() {
     {
       title: 'Galaxy Mass Estimation',
       description: [
-        'Developed a machine learning model to estimate galaxy masses from images',
-        'Achieved 92% accuracy using CNN architecture',
-        'Implemented data augmentation techniques',
-        'Used PyTorch and scikit-learn for model development'
+        'Developed a Python machine learning model to predict galaxy mass using linear regression and random forests.',
+        'Enhanced model accuracy through feature selection and redshift-based input filtering.',
+        'Validated predictions against Sloan Digital Sky Survey (SDSS) data.',
+        'Collaborated on the final report and presented findings at the Sixth Form of the Decade event.'
       ],
       pdfLink: 'https://github.com/sjl-03/portfolio-website/blob/main/public/Estimating_Galaxy_Masses_from_3D_Galaxy_Survey_Data%20(4)%5B4467%5D.pdf'
     },
     {
       title: 'Steam Data Analysis',
       description: [
-        'Analyzed 10+ years of Steam gaming platform data',
-        'Created interactive visualizations using Python',
-        'Identified key trends in gaming industry',
-        'Used pandas and matplotlib for data processing'
+        'Analysed gaming data to identify factors affecting player reviews using Poisson regression and hypothesis testing.',
+        'Applied data cleaning, feature engineering, and exploratory analysis techniques in Python.',
+        'Built statistical models and generated insights through visualisations (heatmaps, KDE plots, boxplots)',
+        'Delivered a structured written report with actionable findings.'
       ],
       pdfLink: 'https://github.com/sjl-03/portfolio-website/blob/main/public/Steam_Data_Analysis.pdf'
     },
     {
       title: 'Flappy Cat (Unity Game)',
       description: [
-        'A web game built in Unity and deployed under my domain.',
+        'A web game built in Unity',
         'Play directly in your browser!'
       ],
       gameLink: 'https://sjl-03.itch.io/flappy-cat'
